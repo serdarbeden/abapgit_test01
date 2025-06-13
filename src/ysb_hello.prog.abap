@@ -6,3 +6,5 @@
 REPORT ysb_hello.
 
 WRITE:/ 'Hello Git'.
+WRITE:/ 'Hello World'.
+WRITE:/ 'Hello Serdar'.
